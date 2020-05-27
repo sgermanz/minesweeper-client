@@ -20,7 +20,8 @@ let minesweeper = new Client(<api-base-url>)
 <game-coordinates> = {
     "_id": "<game-id>",
     "x": <number>,
-    "y": <number>
+    "y": <number>,
+    "time": "<time>"
 }
 ```
 
